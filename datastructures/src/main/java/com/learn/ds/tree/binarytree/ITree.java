@@ -1,4 +1,4 @@
-package com.learn.ds.tree;
+package com.learn.ds.tree.binarytree;
 
 public interface ITree {
 
